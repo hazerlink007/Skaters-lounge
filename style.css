@@ -1,0 +1,94 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+    font-family: 'Avenir';
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.sec-1{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sec-2{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.sec-3{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.slide-transform{
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.cool-btn-wrapper{
+    margin-top: 1.5rem;
+    width: 100%;
+}
+
+.cool-btn-wrapper button{
+    display: block;
+    margin: auto;
+    background-color: red;
+    border: none;
+}
+
+.img-con{
+    width: 100%;
+    text-align: center;
+}
+
+.mod-btn{
+    width: 100%;
+    padding: 0.5rem;
+    border: none;
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+
+h1.modal-title{
+    margin: auto;
+}
+
+.sec-3 .card{
+    width: 18rem;
+    border: none; 
+    background: none;
+    border-radius: 0;
+    border: none;
+}
+
+.sec-3 .modal-body{
+    padding: 0;
+}
+
+.bg-inverse{
+    background-color: rgb(27, 27, 27)
+}
+
+.bg-inverse img{
+    width: 100px;
+    padding: 10px;
+}
+
+.fa-brands{
+    margin: 10px;
+}
+
+.icon-con{
+    margin: auto;
+    display: block;
+}
+
+
